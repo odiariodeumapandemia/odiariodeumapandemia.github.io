@@ -1,0 +1,84 @@
+.menu {
+    border-style:solid;
+    border-width:5px;  
+    border-color:black;
+
+   
+}
+.diario1{
+    font-size: 23px;
+    word-wrap: break-word;
+    color: white;
+	font-family: 'Shadows Into Light', cursive;
+	width: 93%;
+	text-align: justify;
+	box-shadow: inset 0 0 40px black;
+    border: 15px;
+    padding: 25px;
+    margin: 20px;  
+    border-color:#151515;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.p{
+	font-family: 'Shadows Into Light', cursive;
+}
+.diario2{
+     font-size: 23px;
+    word-wrap: break-word;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    width: 93%;
+    text-align: justify;
+    box-shadow: inset 0 0 40px black;
+    border: 15px;
+    padding: 25px;
+    margin: 20px;  
+    border-color:#151515;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.diario3{
+    font-size: 23px;
+    word-wrap: break-word;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    width: 93%;
+    text-align: justify;
+    box-shadow: inset 0 0 40px black;
+    border: 15px;
+    padding: 25px;
+    margin: 20px;  
+    border-color:#151515;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.diario4{
+     font-size: 23px;
+    word-wrap: break-word;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    width: 93%;
+    text-align: justify;
+    box-shadow: inset 0 0 40px black;
+    border: 15px;
+    padding: 25px;
+    margin: 20px;  
+    border-color:#151515;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.botao{
+    border-style:solid;
+    border-radius: 5px;
+    margin-top: -25%;
+    margin-left: 90%;
+    background-color: #212121;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+
+}   
